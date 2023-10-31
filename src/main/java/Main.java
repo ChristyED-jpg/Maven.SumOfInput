@@ -1,6 +1,7 @@
-/**
- * Created by iyasuwatts on 10/17/17.
- */
+
+import java.util.Scanner;
+ //* Created by iyasuwatts on 10/17/17.
+ //*
 public class Main {
 
     public static void main(String[] args){
@@ -40,10 +41,15 @@ public class Main {
     
     // for Extra Credit
     int gaussianSumOfNumbers(int n) {
-        return 0;
+
+        long sumOfNumbers = System.currentTimeMillis();
+
+        System.out.print(long);
+
+
     }
    
     // for Extra extra credit - compare the methods and show which one is faster
     // google "how to time some java code"
-    // use "System.currentTimeMillis()" to ask the system what time it is.
+    //use "System.currentTimeMillis()" to ask the system what time it is.
 }
